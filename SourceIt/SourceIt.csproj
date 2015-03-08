@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{672A6FEF-A206-4CA4-BEA1-AD2CA8478DE1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SourceIt</RootNamespace>
+    <AssemblyName>SourceIt</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LogoBackground.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="abilities.xaml.cs">
+      <DependentUpon>abilities.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="addAnswerWindow.xaml.cs">
+      <DependentUpon>addAnswerWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="addJobWindow.xaml.cs">
+      <DependentUpon>addJobWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="addProjectWindow.xaml.cs">
+      <DependentUpon>addProjectWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="addQuestionWindow.xaml.cs">
+      <DependentUpon>addQuestionWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="addUserWindow.xaml.cs">
+      <DependentUpon>addUserWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="answer.cs" />
+    <Compile Include="changeServerWindow.xaml.cs">
+      <DependentUpon>changeServerWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="confirmWindow.xaml.cs">
+      <DependentUpon>confirmWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="createFolderWindow.xaml.cs">
+      <DependentUpon>createFolderWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="downloadFilesWindow.xaml.cs">
+      <DependentUpon>downloadFilesWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="errorReporter.cs" />
+    <Compile Include="errorWindow.xaml.cs">
+      <DependentUpon>errorWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="filesOperations.xaml.cs">
+      <DependentUpon>filesOperations.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="firstTutorial.xaml.cs">
+      <DependentUpon>firstTutorial.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="helpFinder.xaml.cs">
+      <DependentUpon>helpFinder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InitialLoading.xaml.cs">
+      <DependentUpon>InitialLoading.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="jobControl.xaml.cs">
+      <DependentUpon>jobControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="jobsManager.xaml.cs">
+      <DependentUpon>jobsManager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoginWindow.xaml.cs">
+      <DependentUpon>LoginWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="message.cs" />
+    <Compile Include="messageBox.xaml.cs">
+      <DependentUpon>messageBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="messagesPage.xaml.cs">
+      <DependentUpon>messagesPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="myStoreItemControl.xaml.cs">
+      <DependentUpon>myStoreItemControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="needLogin.xaml.cs">
+      <DependentUpon>needLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="newMessageWindow.xaml.cs">
+      <DependentUpon>newMessageWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Notification.cs" />
+    <Compile Include="notificationsPage.xaml.cs">
+      <DependentUpon>notificationsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="noUserNoCon.xaml.cs">
+      <DependentUpon>noUserNoCon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Post.cs" />
+    <Compile Include="projectDashboard.xaml.cs">
+      <DependentUpon>projectDashboard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="projectHelp.xaml.cs">
+      <DependentUpon>projectHelp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="projectPage.xaml.cs">
+      <DependentUpon>projectPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="projectSettings.xaml.cs">
+      <DependentUpon>projectSettings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="projectStore.xaml.cs">
+      <DependentUpon>projectStore.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="question.cs" />
+    <Compile Include="regFinal.xaml.cs">
+      <DependentUpon>regFinal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="register.xaml.cs">
+      <DependentUpon>register.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="registerWindow.xaml.cs">
+      <DependentUpon>registerWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="reportBugWindow.xaml.cs">
+      <DependentUpon>reportBugWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="screenshotViewer.xaml.cs">
+      <DependentUpon>screenshotViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="secondTutorial.xaml.cs">
+      <DependentUpon>secondTutorial.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="serverExplorer.xaml.cs">
+      <DependentUpon>serverExplorer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="setDeadlinePage.xaml.cs">
+      <DependentUpon>setDeadlinePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="settings.xaml.cs">
+      <DependentUpon>settings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="singleAnswer.xaml.cs">
+      <DependentUpon>singleAnswer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="singleFileControl.xaml.cs">
+      <DependentUpon>singleFileControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="singleFolderControl.xaml.cs">
+      <DependentUpon>singleFolderControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="singleJob.cs" />
+    <Compile Include="singleNotification.xaml.cs">
+      <DependentUpon>singleNotification.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="singleProjectPost.xaml.cs">
+      <DependentUpon>singleProjectPost.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="singleStoreItemControl.xaml.cs">
+      <DependentUpon>singleStoreItemControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StartupPage.xaml.cs">
+      <DependentUpon>StartupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="startupPagePost.cs" />
+    <Compile Include="startupPagePostControl.xaml.cs">
+      <DependentUpon>startupPagePostControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="store.xaml.cs">
+      <DependentUpon>store.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="storeItem.cs" />
+    <Compile Include="storeItemSettings.xaml.cs">
+      <DependentUpon>storeItemSettings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="teamView.xaml.cs">
+      <DependentUpon>teamView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="theQuestion.xaml.cs">
+      <DependentUpon>theQuestion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="uploadFilesWindow.xaml.cs">
+      <DependentUpon>uploadFilesWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="uploadToStore.xaml.cs">
+      <DependentUpon>uploadToStore.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="wellcome.xaml.cs">
+      <DependentUpon>wellcome.xaml</DependentUpon>
+    </Compile>
+    <Page Include="abilities.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="addAnswerWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="addJobWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="addProjectWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="addQuestionWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="addUserWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="changeServerWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="confirmWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="createFolderWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="downloadFilesWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="errorWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="filesOperations.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="firstTutorial.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="helpFinder.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InitialLoading.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="jobControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="jobsManager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="messageBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="messagesPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="myStoreItemControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="needLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="newMessageWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="notificationsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="noUserNoCon.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="projectDashboard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="projectHelp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="projectPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="projectSettings.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="projectStore.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="regFinal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="register.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="registerWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="reportBugWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="screenshotViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="secondTutorial.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="serverExplorer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="setDeadlinePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="settings.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="singleAnswer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="singleFileControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="singleFolderControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="singleNotification.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="singleProjectPost.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="singleStoreItemControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StartupPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="startupPagePostControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="store.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="storeItemSettings.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StringsDictionary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="teamView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="theQuestion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="uploadFilesWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="uploadToStore.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="wellcome.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <Resource Include="Images\userDefault.png" />
+    <Resource Include="Images\jobs.png" />
+    <Resource Include="Images\back.png" />
+    <Resource Include="Images\loadingAnimation.GIF" />
+    <Resource Include="Images\settingsIconLight.png" />
+    <Resource Include="Images\smallArrow.png" />
+    <Resource Include="Images\userAvatar.png" />
+    <Resource Include="Images\backButton.png" />
+    <Resource Include="Images\upload.png" />
+    <Resource Include="Images\notificationsIcon.png" />
+    <Resource Include="Images\storeIconBlue.png" />
+    <Resource Include="Images\DividerMainBlue.png" />
+    <Resource Include="Images\dividerRotatedBlue.png" />
+    <Resource Include="Images\folder.png" />
+    <Resource Include="Images\home.png" />
+    <Resource Include="Images\Computer.png" />
+    <Resource Include="Images\Network.png" />
+    <Resource Include="Images\undo.png" />
+    <Resource Include="Images\file.png" />
+    <Resource Include="Images\folderIcon.png" />
+    <Resource Include="Images\Search.png" />
+    <Resource Include="Images\downloadStore.png" />
+    <Resource Include="Info.png" />
+    <Resource Include="Images\image.png" />
+    <Resource Include="Images\uploadStore.png" />
+    <Resource Include="Images\smallArrowBlue.png" />
+    <Resource Include="Images\editIcon.png" />
+    <Resource Include="Images\bug.png" />
+    <Resource Include="Images\Messaging.png" />
+    <Content Include="serverAddress.sid">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\LogoNoBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="favicon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="LogoBackground.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\LogoBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\CloseIcon.png" />
+    <Resource Include="Images\MinimiseIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\closeIconSmall.png" />
+    <Resource Include="Images\MinimiseIconSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\TitleBarLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\NewLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dividerRotated.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\DividerMain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\newCloseIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\newMinimiseIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\settingsIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\connected.png" />
+    <Resource Include="Images\disconnected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\addIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\smallAddIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\fixerIcon.png" />
+    <Resource Include="Images\storeIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\teamIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\errorIcon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

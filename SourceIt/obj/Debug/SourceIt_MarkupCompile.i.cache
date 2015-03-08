@@ -1,0 +1,20 @@
+﻿SourceIt
+
+
+winexe
+C#
+.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\
+SourceIt
+none
+false
+DEBUG;TRACE
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\App.xaml
+562107746786
+1-1118609599
+721733887927
+14756479321
+abilities.xaml;addAnswerWindow.xaml;addJobWindow.xaml;addProjectWindow.xaml;addQuestionWindow.xaml;addUserWindow.xaml;changeServerWindow.xaml;confirmWindow.xaml;createFolderWindow.xaml;downloadFilesWindow.xaml;errorWindow.xaml;filesOperations.xaml;firstTutorial.xaml;helpFinder.xaml;InitialLoading.xaml;jobControl.xaml;jobsManager.xaml;LoginWindow.xaml;MainWindow.xaml;messageBox.xaml;messagesPage.xaml;myStoreItemControl.xaml;needLogin.xaml;newMessageWindow.xaml;notificationsPage.xaml;noUserNoCon.xaml;projectDashboard.xaml;projectHelp.xaml;projectPage.xaml;projectSettings.xaml;projectStore.xaml;regFinal.xaml;register.xaml;registerWindow.xaml;reportBugWindow.xaml;screenshotViewer.xaml;secondTutorial.xaml;serverExplorer.xaml;setDeadlinePage.xaml;settings.xaml;singleAnswer.xaml;singleFileControl.xaml;singleFolderControl.xaml;singleNotification.xaml;singleProjectPost.xaml;singleStoreItemControl.xaml;StartupPage.xaml;startupPagePostControl.xaml;store.xaml;storeItemSettings.xaml;StringsDictionary.xaml;teamView.xaml;theQuestion.xaml;uploadFilesWindow.xaml;uploadToStore.xaml;wellcome.xaml;
+
+False
+

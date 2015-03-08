@@ -1,0 +1,193 @@
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\bin\Debug\SourceIt.exe.config
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\bin\Debug\SourceIt.exe
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\bin\Debug\SourceIt.pdb
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\SourceIt.csprojResolveAssemblyReference.cache
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\MainWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\MainWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\App.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\SourceIt_MarkupCompile.cache
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\SourceIt.g.resources
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\SourceIt.Properties.Resources.resources
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\SourceIt.csproj.GenerateResource.Cache
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\SourceIt.exe
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\SourceIt.pdb
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\App.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\StartupPage.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\StartupPage.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\wellcome.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\wellcome.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\firstTutorial.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\firstTutorial.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\secondTutorial.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\secondTutorial.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\register.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\register.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\InitialLoading.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\InitialLoading.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\regFinal.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\regFinal.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\abilities.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\abilities.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\LoginWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\LoginWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\needLogin.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\needLogin.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\bin\Debug\serverAddress.sid
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\SourceIt_Content.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\noUserNoCon.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\noUserNoCon.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\addProjectWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\addProjectWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\projectPage.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\projectPage.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\projectSettings.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\projectSettings.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\projectDashboard.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\projectDashboard.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\singleProjectPost.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\singleProjectPost.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\confirmWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\confirmWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\startupPagePostControl.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\startupPagePostControl.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\uploadFilesWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\uploadFilesWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\setDeadlinePage.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\setDeadlinePage.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\notificationsPage.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\singleNotification.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\notificationsPage.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\singleNotification.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\helpFinder.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\helpFinder.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\jobsManager.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\store.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\jobsManager.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\store.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\settings.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt\SourceIt\obj\Debug\settings.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\bin\Debug\SourceIt.exe.config
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\SourceIt.exe
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\SourceIt.pdb
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\bin\Debug\serverAddress.sid
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\bin\Debug\SourceIt.exe
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\bin\Debug\SourceIt.pdb
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\SourceIt.csprojResolveAssemblyReference.cache
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\abilities.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\addProjectWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\confirmWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\firstTutorial.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\helpFinder.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\InitialLoading.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\jobsManager.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\LoginWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\MainWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\needLogin.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\notificationsPage.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\noUserNoCon.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\projectDashboard.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\projectPage.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\projectSettings.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\regFinal.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\register.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\secondTutorial.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\setDeadlinePage.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\settings.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleNotification.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleProjectPost.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\StartupPage.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\startupPagePostControl.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\store.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\uploadFilesWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\wellcome.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\App.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\abilities.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\addProjectWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\confirmWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\firstTutorial.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\helpFinder.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\InitialLoading.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\jobsManager.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\LoginWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\MainWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\needLogin.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\notificationsPage.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\noUserNoCon.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\projectDashboard.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\projectPage.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\projectSettings.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\regFinal.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\register.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\secondTutorial.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\setDeadlinePage.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\settings.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleNotification.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleProjectPost.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\StartupPage.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\startupPagePostControl.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\store.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\uploadFilesWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\wellcome.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\App.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\SourceIt_Content.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\SourceIt_MarkupCompile.cache
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\SourceIt.g.resources
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\SourceIt.Properties.Resources.resources
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\SourceIt.csproj.GenerateResource.Cache
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\theQuestion.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\theQuestion.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleAnswer.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleAnswer.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\teamView.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\teamView.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\projectHelp.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\projectHelp.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\projectStore.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\projectStore.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\registerWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\registerWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\errorWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\errorWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\addUserWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\addUserWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\createFolderWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\downloadFilesWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\filesOperations.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\serverExplorer.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleFileControl.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleFolderControl.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\StringsDictionary.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\createFolderWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\downloadFilesWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\filesOperations.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\serverExplorer.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleFileControl.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleFolderControl.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleStoreItemControl.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\singleStoreItemControl.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\screenshotViewer.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\screenshotViewer.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\uploadToStore.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\uploadToStore.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\myStoreItemControl.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\myStoreItemControl.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\storeItemSettings.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\storeItemSettings.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\addQuestionWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\addQuestionWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\addAnswerWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\addAnswerWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\reportBugWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\reportBugWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\jobControl.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\jobControl.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\addJobWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\addJobWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\messageBox.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\messagesPage.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\messageBox.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\messagesPage.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\newMessageWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\newMessageWindow.g.cs
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\changeServerWindow.baml
+D:\My Projects\SourceIt\SourceIt-Desktop\SourceIt-Bulgarian version\SourceIt\obj\Debug\changeServerWindow.g.cs
